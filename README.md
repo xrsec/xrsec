@@ -1,17 +1,12 @@
 <tbody>
-    <tr>
-        <td valign="top" width="72" height="60">
-            <img src="https://rmt.ladydaily.com/fetch/ZYGG/storage/20201208143817321505.png?w=45&fmt=jpg" width="45" height="45">
-        </td>
-        <td valign="top" height="60" style="mso-line-height-rule:exactly; line-height:2.5;font-size:12px;">
-            <strong><span>
-                    <font face="宋体">Troy</font> ┃ <font face="宋体">XR-SEC</font><br>
-                </span></strong>
-            <strong><span style="color:#C42634;">
-                    <font face="宋体">低调求发展，潜心习安全</font>
-                </span></strong>
-        </td>
-    </tr>
+    <td valign="top" height="60" style="mso-line-height-rule:exactly; line-height:2.5;font-size:12px;">
+        <strong><span>
+                <font face="宋体">Troy</font> ┃ <font face="宋体">XR-SEC</font><br>
+            </span></strong>
+        <strong><span style="color:#C42634;">
+                <font face="宋体">低调求发展，潜心习安全</font>
+            </span></strong>
+    </td>
 </tbody>
 </table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" class="1">
@@ -26,3 +21,4 @@
         </tr>
     </tbody>
 </table>
+![](https://github-readme-stats.vercel.app/api?username=XRSec&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
