@@ -29,6 +29,3 @@
 
 #### Visitors (Since 2020/10/25)
 ![](https://count.getloli.com/get/@XRSec?theme=gelbooru)
-
-#### Genshin Impact Statics
-![](https://genshin-card.getloli.com/rand/20700517.png)
