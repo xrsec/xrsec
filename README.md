@@ -15,4 +15,10 @@
 </div>
 
 #### Visitors (Since 2020/10/25)
+<div>
 <img align="left" src="https://count.getloli.com/get/@XRSec?theme=gelbooru">
+</div>
+
+欢迎关注公众号
+
+![WeChat](https://rmt.ladydaily.com/fetch/ZYGG/storage/wechat.jpg)
